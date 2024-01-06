@@ -3,6 +3,21 @@
 ![Alt text](Images/2024-01-05_11h41_33.png)
 
 ## Les connexions
+Faire un connexion
+
+Clic et drag = chemin auto en 3 segments
+clic puis clic puis clic = chemin manuel
+
+control + maj + c = raccourci cable
+echap = shortcut flèche
+
+![Alt text](Images/2024-01-06_05h09_36.png)
+
+
+Pour ajouter un point add node avec la flèche et clic droit
+
+![Alt text](Images/2024-01-06_05h16_14.png)
+
 Afficher les ponts
 
 ![Alt text](Images/2024-01-05_11h44_13.png)4
