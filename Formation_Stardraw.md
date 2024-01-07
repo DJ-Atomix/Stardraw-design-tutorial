@@ -3,7 +3,7 @@
 
 
 ## Les connexions
-Faire un connexion
+### Faire un connexion
 
 ![Alt text](Images/2024-01-05_11h41_33.png)
 
@@ -48,8 +48,10 @@ Inversion de la connexion
 
 ![Alt text](Images/2024-01-05_11h57_38.png)
 
+### feathers
 
 Utilisation des feathers pour faire un cable entre 2 produits, en utilisant le même ID
+Elles sont dans les symboles stardraw online
 
 ![Alt text](Images/2024-01-05_12h20_19.png)
 
@@ -57,14 +59,16 @@ Utilisation des feathers pour faire un cable entre 2 produits, en utilisant le m
 
 ![Alt text](Images/2024-01-05_12h21_44.png)
 
-## produit
-Ajouter un produit
+fin connexion
+====
+## Liste de produits
+### Ajouter un produit dans votre liste
 
 ![Alt text](Images/2024-01-05_11h58_23.png)
 
 ![Alt text](Images/2024-01-05_11h58_44.png)
 
-baie et accessoires
+### baie et accessoires
 
 ![Alt text](Images/2024-01-05_11h59_37.png)
 
@@ -98,7 +102,105 @@ Ajouter des produits manuellement dans excel
 
 ![Alt text](Images/2024-01-05_12h19_26.png)
 
-## forme et création
+## bibliothèque de produits
+### création
+Créer un nouvel appareil
+* 1ère solution
+Faire un nouveau document, dessiner la forme
+
+les panneaux sont dans les produits
+
+![Alt text](Images/2024-01-07_09h14_02.png)
+
+Les prises sont dans les symboles
+
+![Alt text](Images/2024-01-07_09h14_50.png)
+
+La taille du texte est en pouces, attention à la virgule et non un point
+
+![Alt text](Images/2024-01-07_09h16_28.png)
+
+sélectionnez et arranger
+
+![Alt text](Images/2024-01-07_09h18_04.png)
+
+![Alt text](Images/2024-01-07_09h18_44.png)
+
+![Alt text](Images/2024-01-05_12h34_55.png)
+
+Tout sélectionner et créer la forme
+
+![Alt text](Images/2024-01-07_09h18_54.png)
+
+éditer le nouveau produit
+
+![Alt text](Images/2024-01-07_09h22_29.png)
+
+ou créer un nouveau produit directement
+
+![Alt text](Images/2024-01-05_12h25_25.png)
+
+Nombre d'entrées
+
+![Alt text](Images/2024-01-05_12h26_48.png)
+
+Le nom des I/O
+
+![Alt text](Images/2024-01-05_12h27_17.png)
+
+Prendre des élements existants pour créer le pictoral design
+
+![Alt text](Images/2024-01-07_09h24_05.png)
+
+Faire le bloc design
+
+![Alt text](Images/2024-01-07_09h24_40.png)
+
+problème avec le rack design non positionné
+
+![Alt text](Images/2024-01-07_09h26_28.png)
+
+bien mettre sur la croix
+
+![Alt text](Images/2024-01-07_09h27_00.png)
+
+Face arrière
+
+![Alt text](Images/2024-01-07_09h29_29.png)
+
+![Alt text](Images/2024-01-07_09h31_17.png)
+
+Copier en array une prise
+
+![Alt text](Images/2024-01-05_12h33_20.png)
+
+![Alt text](Images/2024-01-05_12h33_31.png)
+
+définition de la grille pour aller au demi pas
+
+![Alt text](Images/2024-01-05_12h34_06.png)
+
+
+#### cas dans les visuels de rack
+Créer un rack layout à partir d'un panel (option hors platinum)
+
+Sélectionner votre layout, copier,
+
+![Alt text](Images/2024-01-05_12h50_02.png)
+
+coller dans le rack, grouper les prises, et aligner avec le cadre
+
+![Alt text](Images/2024-01-05_12h50_38.png)
+
+![Alt text](Images/2024-01-05_12h51_17.png)
+
+Pensez à faire la face arrière
+
+![Alt text](Images/2024-01-05_12h52_07.png)
+
+![Alt text](Images/2024-01-05_12h52_50.png)
+
+### modification
 
 Modifier une forme, en prenant une forme existante
 
@@ -118,6 +220,11 @@ Changement de coté de la connextion
 
 ![Alt text](Images/2024-01-06_14h37_37.png)
 
+Fin bibliothèque de produits
+======
+## Symboles
+### creation
+
 Ajouter des symboles à partir d'un plan existant
 
 ![Alt text](Images/2024-01-05_12h41_30.png)
@@ -134,55 +241,8 @@ l'exporter dans le dossier personnel des symboles (en autocad)
 
 ![Alt text](Images/2024-01-05_12h42_24.png)
 
-Créer un rack layout à partir d'un panel
-
-Sélectionner votre layout, copier,
-
-![Alt text](Images/2024-01-05_12h50_02.png)
-
-coller dans le rack, grouper les prises, et aligner avec le cadre
-
-![Alt text](Images/2024-01-05_12h50_38.png)
-
-![Alt text](Images/2024-01-05_12h51_17.png)
-
-Pensez à faire la face arrière
-
-![Alt text](Images/2024-01-05_12h52_07.png)
-
-![Alt text](Images/2024-01-05_12h52_50.png)
-
-
-
-Créer un nouvel appareil
-
-![Alt text](Images/2024-01-05_12h25_25.png)
-
-Nombre d'entrées
-
-![Alt text](Images/2024-01-05_12h26_48.png)
-
-Le nom des I/O
-
-![Alt text](Images/2024-01-05_12h27_17.png)
-
-Prendre des élements existants pour créer le layout
-
-![Alt text](Images/2024-01-05_12h32_28.png)
-
-Copier en array une prise
-
-![Alt text](Images/2024-01-05_12h33_20.png)
-
-![Alt text](Images/2024-01-05_12h33_31.png)
-
-définition de la grille pour aller au demi pas
-
-![Alt text](Images/2024-01-05_12h34_06.png)
-
-![Alt text](Images/2024-01-05_12h34_06.png)
-
-![Alt text](Images/2024-01-05_12h34_55.png)
+Fin création symboles
+======
 
 ## votre document
 
